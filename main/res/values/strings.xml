@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">WiFi Walkie-Talkie II</string>
+    <string name="gps_network_not_enabled">Kindly Enable GPS to continue</string>
+    <string name="open_location_settings">Goto Location Settings</string>
+    <string name="Cancel">Cancel</string>
+    <string name="gps_network_not_enabled_title">GPS Disabled</string>
+
+    <string name="discoveryInfo">Tap on the icon below to start/stop phone discoveries</string>
+    <string name="HowToUseTheApp">
+        1.All the required permissions should be granted
+        \n\n2.Make sure the app installed in both the phones properly and the option of Wifi-Direct is enabled in both the phones
+    \n\n3.Tap on the phone icon on the main screen
+    \n\n4.Once your friends device is discovered, just tap on the icon with his phones name and you are good to go
+    \n\n5.Once both the devices are connected, you can use it as a general Walkie-Talkie with the options of Talk And Over</string>
+    <string name="wifi_on_off">WiFi On-OFF</string>
+    <string name="how_to_use">How To Use The App</string>
+    <string name="about">About</string>
+    <string name="phone">phone</string>
+    <string name="hello">Hello</string>
+    <string name="t_a_l_k">T-A-L-K</string>
+    <string name="tap_on_the_icon_below_to_start_scanning_discovering_nearby_phone_n_nconnection_status">Tap on the icon below to start scanning / discovering nearby phone. \n\nConnection Status:</string>
+
+</resources>
